@@ -1,0 +1,165 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ESP32-S3-MINI-1-N8
+D WiFi Development Tools - 802.11 [Engineering Samples] SMD Module, ESP32-S3FN8, 8 MB SPI Flash, PCB Antenna
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ME6211C33M5G-N
+D Fixed 6V 3.3V 500mA SOT-23-5 Low Dropout Regulators(LDO) RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/1811131510_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
+$ENDCMP
+#
+$CMP PTS820J25MSMTRLFS
+D Tactile Switches Microminiature SMT Top Actuated
+K
+F https://www.ckswitches.com/media/1474/pts820.pdf
+$ENDCMP
+#
+$CMP 16-213SYGC_S530-E3_TR8
+D LED Uni-Color Brilliant Yellow Green 575nm 2-Pin Chip 0402(1006Metric) T/R
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-1/16743.pdf
+$ENDCMP
+#
+$CMP INA226AIDGSR
+D 36-V, Bi-Directional, Ultra-High Accuracy, Low-/High-Side, I2C Out Current/Power Monitor w/ Alert
+K
+F https://componentsearchengine.com/Datasheets/1/INA226AIDGSR.pdf
+$ENDCMP
+#
+$CMP WSL2512R0100FEA18
+D VISHAY - WSL2512R0100FEA18 - METAL STRIP RESISTOR, 0.01OHM, 1%, 2512
+K
+F https://componentsearchengine.com/Datasheets/2/WSL2512R0100FEA18.pdf
+$ENDCMP
+#
+$CMP WSL0805R0100FEA18
+D RESISTOR, 0805 0.01 Ohm +/-1% 0.25W
+K
+F https://componentsearchengine.com/Datasheets/1/WSL0805R0100FEA18.pdf
+$ENDCMP
+#
+$CMP AP2112K-3.3TRG1
+D 600mA 3.3V LDO Regulator Enable SOT23-5 DiodesZetex AP2112K-3.3TRG1, LDO Voltage Regulator, 3.3 V +/-1.5%, 2.5  6 Vin, 5-Pin SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/AP2112.pdf
+$ENDCMP
+#
+$CMP AP2112M-3.3TRG1
+D Linear Voltage Regulator IC Positive Fixed 1 Output 600mA 8-SOIC
+K
+F https://www.diodes.com/assets/Datasheets/AP2112.pdf
+$ENDCMP
+#
+$CMP MAX17048G+T10
+D 3A 1-Cell/2-Cell Fuel Gauge with ModelGauge
+K
+F https://www.analog.com/MAX17048/datasheet
+$ENDCMP
+#
+$CMP DMP2045U-7
+D DMP2045U-7 P-Channel MOSFET, 3.5 (State) A, 4.3 (Steady) A, 20 V, 3-Pin SOT-23 Diodes Inc
+K
+F https://www.diodes.com//assets/Datasheets/DMP2045U.pdf
+$ENDCMP
+#
+$CMP PCM12SMTR
+D Slide Switches 0.3A SPDT ON-ON
+K
+F https://www.ckswitches.com/media/1424/pcm.pdf
+$ENDCMP
+#
+$CMP 1N5819HW-7-F
+D Diode Schottky 1A 40V SOD123 Diodes Inc 1N5819HW-7-F, SMT Schottky Diode, 40V 1A, 2-Pin SOD-123
+K
+F https://www.diodes.com//assets/Datasheets/1N5819HW.pdf
+$ENDCMP
+#
+$CMP M24C16-RMC6TG
+D 16 Kbit serial I2C bus EEPROM
+K
+F https://www.st.com/resource/en/datasheet/m24c16-w.pdf
+$ENDCMP
+#
+$CMP ADS1120IPWR
+D 16-bit, 2-kSPS, 4-ch, low-power, small-size delta-sigma ADC with PGA, VREF, 2x IDACs & SPI interface
+K
+F http://www.ti.com/lit/gpn/ads1120
+$ENDCMP
+#
+$CMP WS2812C
+D Programmable LED; SMD; 5050, PLCC4; RGB; 5x5x1.6mm; DMX 512
+K
+F https://www.tme.eu/hu/details/ws2812c/szines-smd-led-diodak/worldsemi/
+$ENDCMP
+#
+$CMP SGP30-2.5k
+D Air Quality Sensors Multi-Pixel SGP Gas Sensor
+K
+F 
+$ENDCMP
+#
+$CMP MOD-BME280
+D Multiple Function Sensor Modules
+K
+F 
+$ENDCMP
+#
+$CMP OPT3001DNPR
+D Digital Ambient Light Sensor (ALS) With High-Precision Human-Eye Response  
+K
+F http://www.ti.com/lit/gpn/opt3001
+$ENDCMP
+#
+$CMP BSS138BK
+D MOSFET,n-channel,60V,360mA,1ohm,SOT23 NXP BSS138BK N-channel MOSFET Transistor, 0.36 A, 60 V, 3-Pin SOT-23
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-NXP/DSANXP010002281.pdf
+$ENDCMP
+#
+$CMP TLV70018DDCR
+D LDO Voltage Regulators 200mA Low IQ LDO Reg for Portables
+K
+F https://www.ti.com/lit/gpn/tlv700?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes
+$ENDCMP
+#
+$CMP LM75BDP,118
+D Board Mount Temperature Sensors
+K
+F http://www.nxp.com/docs/en/data-sheet/LM75B.pdf
+$ENDCMP
+#
+$CMP XL-0807RGBC-WS2812B
+D 20mA Colorless -40~+150 Positive post Multi-Color 120 3.5V~5.5V SMD,1.8x2mm Light Emitting Diodes (LED) ROHS
+K
+F https://datasheet.lcsc.com/lcsc/2207041845_XINGLIGHT-XL-0807RGBC-WS2812B_C3646929.pdf
+$ENDCMP
+#
+$CMP TPS60150DRVR
+D 140mA, 5V Charge Pump in 2x2 SON
+K
+F http://componentsearchengine.com/Datasheets/1/TPS60150DRVR.pdf
+$ENDCMP
+#
+$CMP BSS138PS
+D Dual N-channel Trench MOSFET
+K
+F https://componentsearchengine.com/Datasheets/2/BSS138PS.pdf
+$ENDCMP
+#
+$CMP TP4054
+D Standalone Linear Li-lon Battery Charger with Thermal Regulation in SOT-23-5
+K
+F https://datasheetspdf.com/pdf/1090540/NanJingTopPower/TP4054/1
+$ENDCMP
+#
+#End Doc Library
